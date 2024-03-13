@@ -2,7 +2,7 @@
 
 Currently studying Software Engineering at The University of Queensland
 
-Linkedin - https://www.linkedin.com/in/Jtrenerry/    
+[Linkedin](https://www.linkedin.com/in/Jtrenerry/)    
 
 ---
 ### Some Stats
