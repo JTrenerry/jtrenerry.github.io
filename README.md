@@ -1,11 +1,11 @@
-### Jackson Trenerry
+## Jackson Trenerry
 
 Currently studying Software Engineering at The University of Queensland
 
 Linkedin - https://www.linkedin.com/in/Jtrenerry/    
 
 ---
-
+### Some Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=dark"
@@ -22,7 +22,7 @@ Linkedin - https://www.linkedin.com/in/Jtrenerry/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+### Some Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=MonsterEnergy&theme=dark)](https://github.com/JTrenerry/MonsterEnergy)
 
 ---
