@@ -5,7 +5,7 @@ Currently studying Software Engineering at The University of Queensland
 [Linkedin](https://www.linkedin.com/in/Jtrenerry/)    
 
 ---
-Other site pages
+Other site pages  
 [Monster Tier List](https://jtrenerry.github.io/MonsterEnergy/)
 
 ---
