@@ -21,18 +21,20 @@ Other site pages
   />
   <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true" />
 </picture>
-
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Some Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=MonsterEnergy&theme=dark)](https://github.com/JTrenerry/MonsterEnergy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=LibGDX-Texture-Packer&theme=dark)](https://github.com/JTrenerry/LibGDX-Texture-Packer)
 
 ---
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
