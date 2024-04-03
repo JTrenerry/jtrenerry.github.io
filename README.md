@@ -1,12 +1,10 @@
 ## Jackson Trenerry
 
-Currently studying Software Engineering at The University of Queensland
+Currently studying Software Engineering at The University of Queensland  
+### Awards / Competitions
+Winner of 2024 UQ EAIT Sustainability Hackathon
 
-[Linkedin](https://www.linkedin.com/in/Jtrenerry/)    
-
----
-Other site pages  
-[Monster Tier List](https://jtrenerry.github.io/MonsterEnergy/)
+[Linkedin](https://www.linkedin.com/in/Jtrenerry/ )   
 
 ---
 ### Some Stats
@@ -15,15 +13,17 @@ Other site pages
     srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true" />
-</picture>
-  
+</picture>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark" />
+</picture>
 
 ---
 ### Some Projects
