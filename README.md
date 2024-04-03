@@ -3,7 +3,7 @@
 Currently studying Software Engineering at The University of Queensland  
 ### Awards / Competitions
 Winner of 2024 UQ EAIT Sustainability Hackathon
-
+### Links
 [Linkedin](https://www.linkedin.com/in/Jtrenerry/ )   
 [Leetcode](https://leetcode.com/Tablespoon/)    
 
