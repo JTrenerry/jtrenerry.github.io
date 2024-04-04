@@ -17,7 +17,6 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
   <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true" />
 </picture>  
 
-  </br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark"
