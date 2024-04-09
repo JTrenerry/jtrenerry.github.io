@@ -6,6 +6,8 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 ### Links
 [Linkedin](https://www.linkedin.com/in/Jtrenerry/ )   
 [Leetcode](https://leetcode.com/Tablespoon/)    
+### My Websites
+[Monster](https://jtrenerry.github.io/MonsterEnergy/)
 
 ---
 ### Some Stats
