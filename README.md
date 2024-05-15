@@ -29,7 +29,7 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 
 ---
 ### Some Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=MonsterEnergy&theme=dark)](https://github.com/JTrenerry/MonsterEnergy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=Study-Timer&theme=dark)](https://github.com/JTrenerry/Study-Timer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=LibGDX-Texture-Packer&theme=dark)](https://github.com/JTrenerry/LibGDX-Texture-Packer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=spoons&theme=dark)](https://github.com/JTrenerry/spoons)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=vim-cats&theme=dark)](https://github.com/JTrenerry/vim-cats)
